@@ -18,8 +18,6 @@ We live in a digital era where information is vast and at its peak. The downside
 
 In the spirit of productivity, we need a way to seamlessly capture the ideas that standout in the moment and store them, one such tool that aids this is Glasp.
 
----
-
 ## What is Glasp ##
 
 GLASP stands for “Greatest Legacy Accumulated as Shared Proof”.
@@ -29,28 +27,13 @@ Kazuki Nakayashiki, a co-founder of Glasp, was inspired undergo this project aft
 
 Glasp mission is to democratize access to other people’s learning and experiences that they have collected throughout their lives as a utilitarian legacy.
 
----
-
 ## Why Use Glasp ##
 
-1. Save Time and Stay Organized
+1. Save Time and Stay Organized: According to a new study from Microsoft Corp., people now generally lose concentration after eight seconds, that of a gold fish is 9. So, in a digitalised lifestyle, how do we seamlessly capture the things that stand out to us in the moment without getting distracted? With Glasp, you can quickly and easily highlight important information on any webpage without having to switch between different apps or screens. This makes it easier to stay organized and keep track of the most important ideas and insights from your research.
 
-According to a new study from Microsoft Corp., people now generally lose concentration after eight seconds, that of a gold fish is 9. So, in a digitalised lifestyle, how do we seamlessly capture the things that stand out to us in the moment without getting distracted? With Glasp, you can quickly and easily highlight important information on any webpage without having to switch between different apps or screens. This makes it easier to stay organized and keep track of the most important ideas and insights from your research.
+2. Community Knowldege Sharing: Because Glasp is a social highlightinh tool, it's used to connect with people who are interested in the same topics as you. By following other users and exploring the content they've highlighted, you can discover new ideas and perspectives that you might not have encountered otherwise.
 
-2. Community Knowldege Sharing
-Because Glasp is a social highlightinh tool, it's used to connect with people who are interested in the same topics as you. By following other users and exploring the content they've highlighted, you can discover new ideas and perspectives that you might not have encountered otherwise.
-
-3. Collaboration
-Glasp is a powerful collaboration tool that can help you and your team to work more efficiently and effectively. By sharing your highlights with your colleagues and collaborators, you can ensure that everyone is on the same page and has access to the most important information and insights.
-
-Streamline workflow - essentially a prodctivity tool to automate mundane tasks
-
-- cited from interview with a tech writer
-Glasp is the tool for all forms of content creators. from technical writers to authors, to indluences. To career people. Glasp ensures you stay in the flow
-
-We use Glasp so that we can use our time intentionally and effectively
-
----
+3. Collaboration: Glasp is a powerful collaboration tool that can help you and your team to work more efficiently and effectively. By sharing your highlights with your colleagues and collaborators, you can ensure that everyone is on the same page and has access to the most important information and insights.
 
 ## How to install Glasp Web Extension ##
 
@@ -82,8 +65,6 @@ or use the links
 Upon installation, ensure you pin Glasp extension
 
 ![Pin Glasp extension](/assets/pin-it.png)
-
----
 
 ## Product Features ##
 
@@ -133,8 +114,6 @@ Glasp allows for public social learning. By going to your home page, you can fol
 
 ![Like Minds](/assets/like_minds.png)
 
----
-
 ## Common Use Cases of Glasp ##
 
 Glasp has so many use cases.
@@ -147,6 +126,8 @@ Check out how Carlos Franco, a [technical writer](https://glasp.co/usecase/glasp
 A product managers main objective is to create products that meet the needs of the target market while aligning with the company's goals and objectives. Because there are many product managers on Glasp, you can follow them and see their highlights and interests. You can also search for product management content on Glasp and research on your product and customer needs.
 See how [Vineet Chaurasiya](https://glasp.co/usecase/glasp-and-product-manager-job-with-vineet-chaurasiya) uses Glasp.
 
-To learn more on usign Glasp, check out this [video tutorail](https://youtu.be/Tgbszoeokv4)
+## Conclusion ##
 
-Glasp makes capturing and sharing resource easy and seamless. Head on to [Glasp](https://glasp.co) and start highlighting.
+To learn more on using Glasp, check out this [ideo tutorail](https://youtu.be/Tgbszoeokv4)
+
+Glasp makes capturing and sharing resource easy and seamless. We use Glasp so that we can use our time intentionally and effectively on work that matter. Head over to [Glasp](https://glasp.co) and start highlighting.
