@@ -2,6 +2,17 @@
 
 ![Glasp Logo](/images/logo.png)
 
+## TABLE OF CONTENT ##
+
+* Introduction
+* What is Glasp
+* Why Use Glasp
+* How to Install Browser Extension
+* Product Features
+* Common Use Cases for Glasp
+* Frequently Asked Questions
+* Conclusion
+
 ## Introduction ##
 
 We live in a digital era where information is vast and at its peak. The downside to this is information overload - we quickly forget, skip or miss out on information, content, and ideas that are useful to us.
@@ -24,7 +35,7 @@ Glasp's mission is to democratize access to other people’s learning and experi
 
 3. Collaboration: Glasp is a powerful collaboration tool that can help you and your team to work more efficiently and effectively. By sharing your highlights with your colleagues and collaborators, you can ensure everyone is on the same page and has access to the most important information and insights.
 
-## How to Install Glasp Web Extension ##
+## How to Install Glasp Browser Extension ##
 
 *Note: I'm using the Google Chrome browser, you can follow along with any browser of your choice.*
 
@@ -40,7 +51,7 @@ Then, finalize the signup process.
 
 ![Finish the signup process](/images/sign_in.png)
 
-1. **Install the Glasp extension to your browser**
+2. **Install the Glasp extension to your browser**
 
 After signing up, you would be redirected to your web store. Click “Add to Chrome” (or the browser you use.) or use the links below:
 
@@ -54,7 +65,7 @@ Upon installation, ensure you pin the Glasp extension.
 
 ![Pin the Glasp extension.](/images/pin.png)
 
-1. **Customize your profile**
+3. **Customize your profile**
 
 Go to your home page by clicking the Glasp icon &gt; home icon, you would be prompted to select up top 10 topics.
 
